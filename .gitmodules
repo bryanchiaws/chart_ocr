@@ -1,0 +1,12 @@
+[submodule "CornerNet"]
+    path = CornerNet
+    url = https://github.com/bryanchiaws/CornerNet
+[submodule "CRAFT_pytorch"]
+	path = CRAFT_pytorch
+	url = ./CRAFT_pytorch/
+[submodule "DeepRule"]
+    path = DeepRule
+    url = https://github.com/bryanchiaws/DeepRule
+[submodule "deep_text_recognition_benchmark"]
+    path = deep_text_recognition_benchmark
+    url = https://github.com/bryanchiaws/deep-text-recognition-benchmark
